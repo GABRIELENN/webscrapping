@@ -37,3 +37,28 @@ A modular and scalable Python project to scrape articles from the [BBC News](htt
 git clone https://github.com/GABRIELENN/webscrapping.git
 cd webscrapping
 ```
+## install dependencies
+```
+pip install requests beautifulsoup4 newspaper3k
+```
+## Run Scarpper
+```
+python main.py
+```
+## 🛠️ Future Improvements
+Add database integration (e.g., SQLite, MongoDB)
+
+- Build a REST API with Flask or FastAPI
+- Add CLI interface for custom scrapes
+- Schedule with cron or APScheduler
+- Extend to other BBC sections or other news sources
+
+## 🤝 Contributing
+Contributions are welcome! Please open an issue or submit a pull request with improvements, bug fixes, or suggestions.
+
+## 📄 License
+This project is licensed under the MIT License.
+
+## ✨ Acknowledgements
+BBC News
+
