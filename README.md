@@ -26,3 +26,14 @@ A modular and scalable Python project to scrape articles from the [BBC News](htt
 ├── main.py
 └── parser.py
 ```
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/GABRIELENN/webscrapping.git
+cd webscrapping
+```
