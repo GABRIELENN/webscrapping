@@ -17,3 +17,12 @@ A modular and scalable Python project to scrape articles from the [BBC News](htt
 
 ## 📁 Project Structure
 
+```
+.
+├── article_extractor.py
+├── config.py
+├── fetcher.py
+├── __init__.py
+├── main.py
+└── parser.py
+```
