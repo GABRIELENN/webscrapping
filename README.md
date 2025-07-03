@@ -1,4 +1,4 @@
-# 📰 BBC News Scraper
+ # 📰 BBC News Scraper
 
 A modular and scalable Python project to scrape articles from the [BBC News](https://www.bbc.com/news) homepage using `requests`, `BeautifulSoup`, and `newspaper3k`.
 
@@ -64,7 +64,7 @@ BBC News
     
           
              
-                     
+                      
                 
        
  
